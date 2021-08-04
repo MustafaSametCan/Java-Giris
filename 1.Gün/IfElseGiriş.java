@@ -10,21 +10,11 @@ public class IfElseGiriş {
             b=input.nextInt();
             System.out.println("C sayısını giriniz:");
             c=input.nextInt();
-        if((a==b) && (b==c)){
-            System.out.println("A B ve C sayıları eşittir.");
+        if((a==b) && (b==c)){System.out.println("A B ve C sayıları eşittir.");}
+        else if((a==b)&&(b!=c)){System.out.println("A ve B sayıları birbirlerine eşittir");}
+        else if((a==c)&&(c!=b)){System.out.println("A ve C sayıları birbirlerine eşittir");}
+        else if((a!=b)&&(b==c)){System.out.println("B ve C sayıları birbirlerine eşittir");}
+        else{System.out.println("A B ve C sayıları eşit değildir.");
         }
-        else if((a==b)&&(b!=c)){
-            System.out.println("A ve B sayıları birbirlerine eşittir");
-        }
-        else if((a==c)&&(c!=b)){
-            System.out.println("A ve C sayıları birbirlerine eşittir");
-        }
-        else if((a!=b)&&(b==c)){
-            System.out.println("B ve C sayıları birbirlerine eşittir");
-        }
-        else{
-            System.out.println("A B ve C sayıları eşit değildir.");
-        }
-
     }
 }
