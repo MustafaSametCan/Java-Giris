@@ -13,8 +13,7 @@ public class HesapMakinesiYapımı {
         System.out.println("1-Toplama\n2-Çıkarma\n3-Çarpma\n4-Bölme");
         System.out.println("Lütfen seçiniz:");
         seçim = input.nextInt();
-        if (seçim == 1) {
-            System.out.println("Toplama : " + (sayi1 + sayi2));}
+        if (seçim == 1) {System.out.println("Toplama : " + (sayi1 + sayi2));}
         else if (seçim == 2) {System.out.println("Çıkarma :" + (sayi1 - sayi2));}
         else if (seçim == 3) {System.out.println("Çarpma :" + (sayi1 * sayi2));}
         else if (seçim == 4) {
