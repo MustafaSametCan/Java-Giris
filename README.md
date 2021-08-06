@@ -8,3 +8,5 @@
 * Added some if-else examples
 * Do-While and For loops were learned and simple examples made in the lessons were written.
 ## Day 3
+* Added some for examples
+* Methods lessons are started
