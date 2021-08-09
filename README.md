@@ -11,6 +11,6 @@
 * Added some "for" examples
 * Methods lessons are started
 ## Day 4
-*
+* Method lessons continue to be learned
 *
 *
