@@ -10,3 +10,7 @@
 ## Day 3
 * Added some "for" examples
 * Methods lessons are started
+## Day 4
+*
+*
+*
