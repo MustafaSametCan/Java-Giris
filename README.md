@@ -11,7 +11,7 @@
 * Added some "for" examples
 * Methods lessons are started
 ## Day 4
-* Added a simple "while" example
+* Added a simple "While" and "Methods" example
 * Method lessons continue to be learned
 *
 
