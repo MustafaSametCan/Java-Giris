@@ -17,4 +17,5 @@
 ## Day 5
 * OOP lessons continue to be learned
 * Added a simple "OOP" example
+* Arrays lessons are started
 
