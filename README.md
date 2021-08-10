@@ -16,4 +16,5 @@
 * Basic OOP lessons are started
 ## Day 5
 * OOP lessons continue to be learned
+* Added a simple "OOP" example
 
