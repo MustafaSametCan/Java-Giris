@@ -15,4 +15,5 @@
 * Method lessons continue to be learned
 * Basic OOP lessons are started
 ## Day 5
+* OOP lessons continue to be learned
 
