@@ -19,7 +19,7 @@
 * Added a simple "OOP" example.
 * Arrays lessons are started.
 ## Day 6
-* Arrays lessons continue to be learned.
+* Arrays lessons finished.
 * Added Math & String classes frequently used methods.txt.
 * Added 3 simple example.
 * OOP lessons continue to be learned.
