@@ -22,5 +22,5 @@
 * Arrays lessons finished.
 * Added Math & String classes frequently used methods.txt.
 * Added 3 simple example.
-* OOP lessons continue to be learned.
+* OOP lessons continue to be learned.(Access Modifiers/Static Usage)
 
