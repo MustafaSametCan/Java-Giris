@@ -1,0 +1,13 @@
+		  Sık Kullanılanlar
+
+Math.ceil(x) --> Bir büyük tam sayıya yuvarlama yapar.
+Math.cos(x) --> cos degerini döner
+Math.sin(x) --> sin değerini döner
+Math.floor(x) --> Küçük tam sayıya yuvarlar
+Math.max(x,y) --> Büyük sayıyı verir
+Math.min(x,y) --> Küçük sayıyı verir
+Math.pow(3,5) --> 3^5 üs alır
+Math.random() --> 1 ve 0 arasında rastgele değer
+Math.round(x) --> yakın olan tam sayıya döner
+Math.abs(x) --> Mutlak değer
+Math.sqrt(x) --> Karekök alır

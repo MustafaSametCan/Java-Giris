@@ -1,0 +1,11 @@
+					Sık Kullanılanlar
+str.length() : Girilen karakterin sayısını döndürür.
+str1.concat(str2) : String birleştirme.
+str.indexOf('K') : Karakterin konumunu verir.
+str.charAt(s) : indexOf metoduna benzer şekilde bu sefer de konumu verilen karakteri okur.
+str.compareTo("Java") : büyük/küçük harf duyarlı olarak karşılaştırır.
+str.compareToIgnoreCase("JAVa") : büyük/küçğk harf duyarlı olmadan karşılaştırır.
+str.contains("code") : girilen değer string içinde geçiyor mu diye kontrol eder.
+str.endsWith("a") : belirtilen karakter ile bitiyorsa true değerini döndürür.
+str.replace("Java","C") : string değiştirmek için kullanılır.
+str.toLowerCase() , str.toUpperCase();
