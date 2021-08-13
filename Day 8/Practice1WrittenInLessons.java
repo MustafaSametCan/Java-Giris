@@ -1,4 +1,4 @@
-public class Practice1WrittenInLeesons {
+public class Practice1WrittenInLessons {
     public static void main(String[] args) {
         int count=0;
         int num = 2;
