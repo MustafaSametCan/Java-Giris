@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Practice3 {
+public class Practice3WrittenInLessons {
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
         int num;
