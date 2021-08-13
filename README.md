@@ -1,5 +1,5 @@
 # Learning Java
-![cover](https://www.vectorlogo.zone/logos/java/java-ar21.svg)
+![cover](https://www.vectorlogo.zone/logos/java/java-ar21.svg) ![cover](https://dwglogo.com/wp-content/uploads/2017/12/Spring_Framework_logo_01.png)
 ## Day 1
 * IDE Installed. Variables, Data Types and Operators were learned.
 * Simple programs made in the lessons were written and slightly improved.
