@@ -28,6 +28,6 @@
 ## Day 8
 * The Java Lessons were followed up to chapter 70 and some practice after that.
 ## Day 9
-* SpringBoot lessons are started.
-* 
+* Jdk,DockerDesktop installed
+* SpringBoot lessons are started. 
 
