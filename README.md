@@ -34,4 +34,5 @@
 ## Day 10
 * SpringBoot lessons continued to be learned
 * SpringBoot Elasticsearch docker setup
+* SpringBoot DataJPA & PostgreSQL
 
