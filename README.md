@@ -12,22 +12,26 @@
 * Methods lessons are started.
 ## Day 4
 * Added a simple "While" and "Methods" example.
-* Method lessons continue to be learned.
+* Method lessons continued to be learned.
 * Basic OOP lessons are started.
 ## Day 5
-* OOP lessons continue to be learned.
+* OOP lessons continued to be learned.
 * Added a simple "OOP" example.
 * Arrays lessons are started.
 ## Day 6
 * Arrays lessons finished.
 * Added Math & String classes frequently used methods.txt.
 * Added 3 simple example.
-* OOP lessons continue to be learned.(Access Modifiers/Static Usage)
+* OOP lessons continued to be learned.(Access Modifiers/Static Usage)
 ## Day 7 
-* OOP lessons continue to be learned.(Final Method/Encapsulation/Getter&Setter/Inheritance/Method Overriding/Polymorphism/Abstraction/Interface)
+* OOP lessons continued to be learned.(Final Method/Encapsulation/Getter&Setter/Inheritance/Method Overriding/Polymorphism/Abstraction/Interface)
 ## Day 8
 * The Java Lessons were followed up to chapter 70 and some practice after that.
 ## Day 9
 * Jdk,DockerDesktop installed
 * SpringBoot lessons are started. 
+* SpringBoot Mongo docker setup
+## Day 10
+* SpringBoot lessons continued to be learned
+* SpringBoot Elasticsearch docker setup
 
