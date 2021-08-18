@@ -35,4 +35,8 @@
 * SpringBoot lessons continued to be learned
 * SpringBoot Elasticsearch docker setup
 * SpringBoot DataJPA & PostgreSQL
+## Day 11
+* SpringBoot lessons continued to be learned
+* SpringBoot Swagger2
+* SpringBoot RabbitMQ
 
