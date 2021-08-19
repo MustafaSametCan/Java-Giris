@@ -39,4 +39,5 @@
 * SpringBoot lessons continued to be learned
 * SpringBoot Swagger2
 * SpringBoot RabbitMQ
-
+## Day 12
+* SpringBoot Dockerization
