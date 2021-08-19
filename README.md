@@ -41,3 +41,4 @@
 * SpringBoot RabbitMQ
 ## Day 12
 * SpringBoot Dockerization
+* SpringBoot AOP
