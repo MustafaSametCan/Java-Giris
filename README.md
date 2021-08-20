@@ -43,3 +43,5 @@
 * SpringBoot Dockerization
 * SpringBoot AOP
 ## Day 13
+* SpringBoot Dependency Injection & Inversion of Control
+* GraphQL
