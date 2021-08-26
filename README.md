@@ -47,3 +47,5 @@
 * GraphQL
 ## Day 14
 * SpringBoot RestTemplate
+## Day 15
+* Springboot Redis
